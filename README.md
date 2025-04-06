@@ -2,7 +2,10 @@
 
 Welcome to my fully responsive landing page project developed during my internship at Prodigy Infotech! � This modern, sleek, and user-friendly website showcases my front-end development skills using pure HTML, CSS, and JavaScript.
 
-![view](https://github.com/feyo46/Responsive-Landing-Page-created-using-HTML-CSS-and-JavaScript./blob/main/Screenshot%201.png?raw=true) <!-- Replace with actual screenshot -->
+![view1](https://github.com/feyo46/Responsive-Landing-Page-created-using-HTML-CSS-and-JavaScript./blob/main/Screenshot%201.png?raw=true) 
+![view2](https://github.com/feyo46/Responsive-Landing-Page-created-using-HTML-CSS-and-JavaScript./blob/main/Screenshot%202.png?raw=true) 
+![view3](https://github.com/feyo46/Responsive-Landing-Page-created-using-HTML-CSS-and-JavaScript./blob/main/Screenshot%203.png?raw=true) 
+![view4](https://github.com/feyo46/Responsive-Landing-Page-created-using-HTML-CSS-and-JavaScript./blob/main/Screenshot%204.png?raw=true) 
 
 ## ✨ Key Features
 
